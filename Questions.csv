@@ -1,0 +1,101 @@
+Question,Classes
+Hello,Greetings
+Heyy Pal,Greetings
+Hey Bro!,Greetings
+"Hiya, chatbot!",Greetings
+"Hey, I'm looking for some answers.",Greetings
+"Hey, how are you?",Greetings
+"Hi, what's up?",Greetings
+"Hey, can you help me?",Greetings
+"Hi, I need assistance.",Greetings
+"Hey, chatbot, spill the tea!",Greetings
+How many companies visited last year?,Placement Data - companies
+What were the top companies that visited campus last year?,Placement Data - companies
+What were the top companies that visited previously?,Placement Data - companies
+What were the top recruiters during the placement season last year?,Placement Data - companies
+"Can you provide insights into the latest placement statistics, including the companies that have recruited from our campus?",Placement Data - companies
+How many companies participated in the placement drive last year?,Placement Data - companies
+Can you provide a list of companies that visited the campus in the previous placement season?,Placement Data - companies
+What were the overall placement statistics for the latest placement season?,Placement Data - companies
+What were the top industries represented by recruiting companies last year?,Placement Data - companies
+How many companies participated in the placement season last year?,Placement Data - companies
+What are the job positions that are offered by these companies?,Placement Data - roles
+What are the job roles and positions that companies commonly provide to graduates from our institution?,Placement Data - roles
+What positions do companies recruit for during on-campus placements?,Placement Data - roles
+What roles do companies offer during placements?,Placement Data - roles
+Which specific roles are frequently available during the campus placement?,Placement Data - roles
+What job titles are often on offer for graduates during recruitment session,Placement Data - roles
+Can you provide insight into the typical job functions companies seek to fill during on-campus hiring?,Placement Data - roles
+What are the common job opportunities students can explore during the placement seasons?,Placement Data - roles
+What are the key positions students can apply for during our institution's placement activities?,Placement Data - roles
+I'm curious about the specific roles that companies tend to recruit students for during placement events?,Placement Data - roles
+What was the Highest package that was offered?,Placement Data - packages
+What was the Highest salary that was offered last year?,Placement Data - packages
+What was the highest CTC?,Placement Data - packages
+What was the average CTC?,Placement Data - packages
+What was the average compensation?,Placement Data - packages
+What was the average package?,Placement Data - packages
+What was the median compensation?,Placement Data - packages
+What was the median package?,Placement Data - packages
+What was the median CTC?,Placement Data - packages
+Can you provide details on the top offer made to a student in terms of salary?,Placement Data - packages
+How can I upload my documents for verification?,Document Verification
+What documents are required for verification?,Document Verification
+What is the status of my document verification?,Document Verification
+Where can I find the document upload portal for verification?,Document Verification
+Are there specific file formats required for document uploads during verification?,Document Verification
+Can you provide a checklist of documents needed for the verification process?,Document Verification
+Are there size limitations for the documents I upload during verification?,Document Verification
+What documents are mandatory for the verification process?,Document Verification
+How can I check the status of my document verification?,Document Verification
+Where can I find the document upload portal for the verification process?,Document Verification
+What training programs are available to help me prepare for placements?,Training
+Are there any placement training workshops offered by the placement cell?,Training
+Is there a schedule for upcoming placement-related webinars or workshops?,Training
+Are there any placement training workshops organized by the placement cell?,Training
+What training resources are available through the placement cell to support students in their preparation for placements?,Training
+Can you give me details about the placement cell's training intiatives to help us succeed in job placements?,Training
+Are there any training workshops organized by the placement cell to enhance our interview skills and resume writing?,Training
+What kind of training opportunities does the placement cell provide for students aiming for placement?,Training
+Can you tell me about the training program offered by the placement cell to improve our job prospects?,Training
+Are there any workshops or training sessions from the placement cell to help us get ready for the placements?,Training
+Where can I find resources to improve my technical skills?,Preparation
+Can you suggest websites offering practice tests for aptitude and reasoning skills?,Preparation
+Can you recommend specific books or webisites for interview preparation?,Preparation
+How can I access coding practice materials to improve my technical skills?,Preparation
+Can you recommend any online resources or courses that can help me improve my technical skills,Preparation
+Are there websites that provide practice tests specifically for aptitude and reasoning skills?,Preparation
+What are some reputable platforms offering comprehensive technical courses suitable for placement preparation?,Preparation
+Where can I find reliable resources to enhance my technical skills for placement preparation?,Preparation
+"What specific books or websites do you recommend for interview preparation, covering both technical and non-technical aspects?",Preparation
+How can I access coding practice materials to enhance my programming skills?,Preparation
+What is the timeline for the placement season?,Placement Process
+How can I register for upcoming placement events?,Placement Process
+Where can I get updates regarding Placement?,Placement Process
+What is the eligibility criteria for participating in placements?,Placement Process
+What is the selection process followed by different companies?,Placement Process
+What documents do I need to submit for placement registration?,Placement Process
+What should I wear and bring to placement interviews?,Placement Process
+What happens after I receive an offer letter?,Placement Process
+What essentials should I bring along for a placement interview?,Placement Process
+What stages or rounds are typically involved in the recruitment process?,Placement Process
+I'm having trouble uploading my documents. Can you help?,Trouble shooting
+I made a mistake in my document submission. How can I fix it?,Trouble shooting
+What should I do if I encounter technical difficulties while trying to upload my documents for placement?,Trouble shooting
+I encountered technical glitches while registering for placements. How can I resolve these issues?,Trouble shooting
+Is there a helpline or support system available to address technical problems during the registration process?,Trouble shooting
+What should I do if the system is not accepting my application for placement?,Trouble shooting
+need to update some details in my placement profile. How can I edit or modify my information after submission?,Trouble shooting
+I'm encountering errors while creating my resume.,Trouble shooting
+Is there a process in place for correcting errors in the documents I've already submitted for placement?,Trouble shooting
+"I have already submitted my resume, but I need to make some updates. Is there a way to edit the submitted resume",Trouble shooting
+How can I prepare for the role of Software Development Engineer?,Other
+How can I prepare for the role of ML Engineer?,Other
+How can I prepare for the role of Data Analyst?,Other
+From where can I do online courses?,Other
+What certifications should I get?,Other
+How Can I secure the best Placements?,Other
+How can I prepare myself to get the best package?,Other
+Are there any industry-specific certifications or training programs that could enhance my profile?,Other
+How can I leverage my unique skills and experiences to stand out during placements?,Other
+What skills do companies look for during placements?,Other
